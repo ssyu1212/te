@@ -7,7 +7,6 @@
 * [hajime](idols/hajime)
 
 ## 보존된 기타 커뮤 목록
-
 * [temptation_evil_history_R1](idols/etc/episodes/te_revision)
 
 ## 보존된 푸치 프로필 목록
