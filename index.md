@@ -27,6 +27,7 @@
 * [syoko_7](etc/commu/syoko_7)
 * [syoko_8](etc/commu/syoko_8)
 * [temptation_evil_history](idols/etc/episodes/temptation_evil_history)
+* [temptation_evil_history_R1](idols/etc/episodes/te_revision)
 
 ## 보존된 푸치 프로필 목록
 * [hajime_heart_aiko](etc/puchi/hajime_heart_aiko)
